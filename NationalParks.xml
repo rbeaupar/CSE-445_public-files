@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://rbeaupar.github.io/CSE-445_public-files NationalParks.xsd">
+<NationalPark xmlns="https://rbeaupar.github.io/CSE-445_public-files" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://rbeaupar.github.io/CSE-445_public-files https://rbeaupar.github.io/CSE-445_public-files/NationalParks.xsd">
   <NationalPark>
     <Name>Saguaro</Name>
     <Phone>520-733-5100</Phone>
@@ -129,4 +129,4 @@
       <Zip>86028</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
+</NationalPark>

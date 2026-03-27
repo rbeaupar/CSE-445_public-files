@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xsd:schema elementFormDefault="qualified" attributeFormDefault="unqualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:schema xmlns="https://rbeaupar.github.io/CSE-445_public-files" targetNamespace="https://rbeaupar.github.io/CSE-445_public-files" elementFormDefault="qualified" attributeFormDefault="unqualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <xsd:element name="NationalParks" type="NationalParksType" />
   <xsd:complexType name="NationalParksType">
     <xsd:sequence>

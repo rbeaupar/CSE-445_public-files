@@ -44,86 +44,85 @@
       <State>CA</State>
       <Zip>95389</Zip>
     </Address>
-    <NationalPark Rating="4.8">
-      <Name>Zion</Name>
-      <Phone>435-772-3256</Phone>
-      <Address NearestAirport="St. George Regional Airport">
-        <Number>5</Number>
-        <Street>1 Zion Park Blvd.</Street>
-        <City>Springdale</City>
-        <State>UT</State>
-        <Zip>84767</Zip>
-      </Address>
-    </NationalPark>
-    <NationalPark Rating="4.7">
-      <Name>Death Valley</Name>
-      <Name>Death Valley</Name>
-      <Phone>760-786-3200</Phone>
-      <Address NearestAirport="Furnace Creek Airport">
-        <Number>6</Number>
-        <Street>P.O. Box 579</Street>
-        <City>Death Valley</City>
-        <State>CA</State>
-        <Zip>92328</Zip>
-      </Address>
-    </NationalPark>
-    <NationalPark Rating="4.9">
-      <Name>Redwood</Name>
-      <Phone>707-464-6101</Phone>
-      <Address NearestAirport="Del Norte County Airport">
-        <Number>7</Number>
-        <Street>1111 Second Street</Street>
-        <City>Crescent City</City>
-        <State>CA</State>
-        <Zip>95531</Zip>
-      </Address>
-    </NationalPark>
-    <NationalPark Rating="4.8">
-      <Name>Grand Canyon</Name>
-      <Phone>928-638-7496</Phone>
-      <Phone>888-297-2757</Phone>
-      <Phone>866-499-2574</Phone>
-      <Address NearestAirport="Seattle-Tacoma International Airport">
-        <Number>8</Number>
-        <Street>S Entrance Road</Street>
-        <City>Grand Canyon</City>
-        <State>AZ</State>
-        <Zip>86023</Zip>
-      </Address>
-    </NationalPark>
-    <NationalPark Rating="4.9">
-      <Name>Mount Rainier</Name>
-      <Phone>360-569-2211</Phone>
-      <Phone>360-569-6575</Phone>
-      <Address NearestAirport="Seattle-Tacoma International Airport">
-        <Number>9</Number>
-        <Street>55210 238th Avenue East</Street>
-        <City>Ashford</City>
-        <State>WA</State>
-        <Zip>98304</Zip>
-      </Address>
-    </NationalPark>
-    <NationalPark Rating="4.9">
-      <Name>Rocky Mountain</Name>
-      <Phone>970-586-1206</Phone>
-      <Address NearestAirport="Denver International Airport">
-        <Number>10</Number>
-        <Street>1000 US Hwy 36</Street>
-        <City>Estes Park</City>
-        <State>CO</State>
-        <Zip>80517</Zip>
-      </Address>
-    </NationalPark>
-    <NationalPark Rating="4.7">
-      <Name>Petrified Forest</Name>
-      <Phone>928-524-6228</Phone>
-      <Address NearestAirport="Flagstaff Pulliam Airport">
-        <Number>11</Number>
-        <Street>Exit 311 Interstate 40</Street>
-        <City>Petrified Forest</City>
-        <State>AZ</State>
-        <Zip>86028</Zip>
-      </Address>
-    </NationalPark>
+  </NationalPark>
+  <NationalPark Rating="4.8">
+    <Name>Zion</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearestAirport="St. George Regional Airport">
+      <Number>5</Number>
+      <Street>1 Zion Park Blvd.</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.7">
+    <Name>Death Valley</Name>
+    <Name>Death Valley</Name>
+    <Phone>760-786-3200</Phone>
+    <Address NearestAirport="Furnace Creek Airport">
+      <Number>6</Number>
+      <Street>P.O. Box 579</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.9">
+    <Name>Redwood</Name>
+    <Phone>707-464-6101</Phone>
+    <Address NearestAirport="Del Norte County Airport">
+      <Number>7</Number>
+      <Street>1111 Second Street</Street>
+      <City>Crescent City</City>
+      <State>CA</State>
+      <Zip>95531</Zip>
+  </NationalPark>
+  <NationalPark Rating="4.8">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="Seattle-Tacoma International Airport">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.9">
+    <Name>Mount Rainier</Name>
+    <Phone>360-569-2211</Phone>
+    <Phone>360-569-6575</Phone>
+    <Address NearestAirport="Seattle-Tacoma International Airport">
+      <Number>9</Number>
+      <Street>55210 238th Avenue East</Street>
+      <City>Ashford</City>
+      <State>WA</State>
+      <Zip>98304</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.9">
+    <Name>Rocky Mountain</Name>
+    <Phone>970-586-1206</Phone>
+    <Address NearestAirport="Denver International Airport">
+      <Number>10</Number>
+      <Street>1000 US Hwy 36</Street>
+      <City>Estes Park</City>
+      <State>CO</State>
+      <Zip>80517</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.7">
+    <Name>Petrified Forest</Name>
+    <Phone>928-524-6228</Phone>
+    <Address NearestAirport="Flagstaff Pulliam Airport">
+      <Number>11</Number>
+      <Street>Exit 311 Interstate 40</Street>
+      <City>Petrified Forest</City>
+      <State>AZ</State>
+      <Zip>86028</Zip>
+    </Address>
   </NationalPark>
 </NationalPark>
